@@ -1,1 +1,3 @@
 # git_test
+So here it starts... 
+Hello Odin! Bless me in my journey allfather
